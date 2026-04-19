@@ -18,7 +18,10 @@ Objectives :
 
  Dashboard Preview :
 
-![Dashboard](dashboard_overview.png)
+
+
+
+
 
  Project Files :
 
