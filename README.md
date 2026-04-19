@@ -11,21 +11,10 @@ Objectives :
 * Understand customer ratings and preferences
 * Visualize pricing and order trends
 
- 🛠 Tools Used
+ Tools Used :
 
 * Microsoft Power BI
 * Data Visualization Techniques
-
- Dashboard Preview :
-
-
-
-
-
-
- Project Files :
-
-* `Zomato_Insights_Dashboard.pbix` → Main Power BI file 
 
 Key Insights :
 * Most popular cuisines and locations identified
